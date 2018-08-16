@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Verify shopping cart tooltip is MyShoppingCart
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.04 sec - in Scenario: Verify shopping cart tooltip is MyShoppingCart
